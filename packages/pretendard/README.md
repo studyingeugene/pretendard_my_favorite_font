@@ -708,4 +708,3 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 ## 의견 나누기
 
 새로운 개선 의견은 언제나 환영입니다. 해결이 필요한 경우 [Issues](https://github.com/orioncactus/pretendard/issues)에서 이슈를 등록해주세요.
-
